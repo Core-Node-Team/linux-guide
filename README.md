@@ -1,2 +1,1 @@
-# linux-guide
-How to use VPS 
+Burada Linux ile ilgili rehberler paylaşılacaktır.
